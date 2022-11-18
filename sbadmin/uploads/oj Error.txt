@@ -1,0 +1,350 @@
+A PHP Error was encountered
+Severity: Notice
+
+Message: Undefined variable: rejudge_start_date
+
+Filename: controllers/System_mgr.php
+
+Line Number: 83
+
+A PHP Error was encountered
+Severity: Notice
+
+Message: Undefined variable: rejudge_end_date
+
+Filename: controllers/System_mgr.php
+
+Line Number: 83
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fsockopen(): unable to connect to 117.16.17.167:7000 (Connection refused)
+
+Filename: models/System_model.php
+
+Line Number: 132
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fputs() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 133
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: fclose() expects parameter 1 to be resource, boolean given
+
+Filename: models/System_model.php
+
+Line Number: 134
+
+A PHP Error was encountered
+Severity: Warning
+
+Message: Cannot modify header information - headers already sent by (output started at /var/www/html/system/core/Exceptions.php:271)
+
+Filename: helpers/url_helper.php
+
+Line Number: 564
