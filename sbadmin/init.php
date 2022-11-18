@@ -8,7 +8,7 @@
 
     session_start();
 
-    $db = mysqli_connect("localhost", "webadmin", "webadmin2022!");
+    $db = mysqli_connect("localhost", "webadmin", "root1234");
     mysqli_select_db($db, "webadmin");
 
     function isLogin(){
